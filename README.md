@@ -1,8 +1,8 @@
 # LAB-10---VULNARABILITY-ANALYSIS
 | Details | Information |
 |---|---|
-| Name | WAN NUR ALISYA AYUNI BT WAN ZAIDI |
-| Student ID | 52215225259 |
+| Name | MUHAMMAD DANIAL FITRI BIN MAT DARUS |
+| Student ID | 52215125232 |
 | Programme | Bachelor Of Information Technology (Hons) In Computer System Security |
 | Course | IKB21403 - Vulnerability Analysis |
 | Lecturer | Nor Adani Kamal Mohamad Nasir |
